@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.zeka.cloud/"/>
-  <updated>2020-08-07T09:30:02.942Z</updated>
+  <updated>2020-08-17T09:03:26.861Z</updated>
   <id>http://blog.zeka.cloud/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.zeka.cloud/2020/08/04/hello-world/"/>
     <id>http://blog.zeka.cloud/2020/08/04/hello-world/</id>
     <published>2020-08-04T14:39:26.815Z</published>
-    <updated>2020-08-07T09:30:02.942Z</updated>
+    <updated>2020-08-17T09:03:26.861Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,10 @@
     </summary>
     
     
+    
+      <category term="Testing" scheme="http://blog.zeka.cloud/tags/Testing/"/>
+    
+      <category term="world" scheme="http://blog.zeka.cloud/tags/world/"/>
     
   </entry>
   
